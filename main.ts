@@ -7,6 +7,7 @@ function ReciveMesssage () {
         } else {
             game.splash("ERROR!", "Try" + _try + "Times")
             _try += -1
+            ReciveMesssage()
         }
     } else {
         game.splash("Need Reset!")
