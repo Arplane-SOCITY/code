@@ -3,8 +3,10 @@ function ReciveMesssage () {
         passwordfromrecive = game.askForNumber("Password?", 10)
         if (passwordfromrecive == password) {
             game.splash(message)
+            ShowIntroduce()
         } else {
             game.splash("ERROR!", "Try" + _try + "Times")
+            _try += -1
         }
     } else {
         game.splash("Need Reset!")
