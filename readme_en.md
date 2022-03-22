@@ -1,7 +1,7 @@
 > English [ไทย](readme_th.md)
 
 > Open this page at [https://arplane-socity.github.io/code/](https://arplane-socity.github.io/code/)
-## Use as Extension
+>## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
