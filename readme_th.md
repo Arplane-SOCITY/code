@@ -1,5 +1,5 @@
 
->[English](readme_en.md) ไทย
+>[English](readme_en.md) ไทย [中文 Small](readme_zh_1.md) [中文 Large](readme_zh_2.md)
 
 >เปิดหน้านี้ที่ [https://arplane-socity.github.io/code/](https://arplane-socity.github.io/code/)
 >
