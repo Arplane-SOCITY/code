@@ -2,8 +2,8 @@
 >[English](readme_en.md) ไทย
 
 >เปิดหน้านี้ที่ [https://arplane-socity.github.io/code/](https://arplane-socity.github.io/code/)
-
-## ใช้เป็นส่วนขยาย
+>
+>## ใช้เป็นส่วนขยาย
 ที่เก็บนี้สามารถเพิ่มเป็น**ส่วนขยาย**ใน MakeCode
 
 * เปิด [https://arcade.makecode.com/](https://arcade.makecode.com/)
