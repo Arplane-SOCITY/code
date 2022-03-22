@@ -1,5 +1,5 @@
 function ReciveMesssage () {
-    if (_try > 0) {
+    if (_try > -1) {
         passwordfromrecive = game.askForNumber("Password?", 10)
         if (passwordfromrecive == password) {
             game.splash(message)
