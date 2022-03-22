@@ -1,4 +1,4 @@
-> english [ไทย](readme_th.md)
+> English [ไทย](readme_th.md)
 
 
 > Open this page at [https://arplane-socity.github.io/code/](https://arplane-socity.github.io/code/)
