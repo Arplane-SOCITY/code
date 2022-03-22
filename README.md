@@ -5,3 +5,5 @@ Please Select Language To Redirect
 โปรดเลือกภาษาที่จะเปลี่ยนเส้นทาง
 
 [English](readme_en.md) [ไทย](readme_th.md) [中文 Small](readme_zh_1.md) [中文 Large](readme_zh_2.md)
+
+![Build status badge](https://github.com/arplane-socity/code/workflows/MakeCode/badge.svg)
