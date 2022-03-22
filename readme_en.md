@@ -1,4 +1,4 @@
-> English [ไทย](readme_th.md)
+> English [ไทย](readme_th.md) [中文 Small](readme_zh_1.md) [中文 Large](readme_zh_2.md)
 
 > Open this page at [https://arplane-socity.github.io/code/](https://arplane-socity.github.io/code/)
 >## Use as Extension
