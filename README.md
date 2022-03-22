@@ -4,4 +4,4 @@
 Please Select Language To Redirect
 โปรดเลือกภาษาที่จะเปลี่ยนเส้นทาง
 
-[English](. สมัย/readme_en.md)
+[English](readme_en.md) [ไทย](readme_th.md)
