@@ -17,7 +17,7 @@
 เปิด [https://arcade.makecode.com/](https://arcade.makecode.com/)
 คลิกที่**นำเข้า**จากนั้นคลิกที่**นำเข้า URL**
 วาง **https://github.com/arplane-socity/code** แล้วคลิกนำเข้า
-การแสดงตัวอย่างบล็อก
+# การแสดงตัวอย่างบล็อก
 ภาพนี้แสดงโค้ดบล็อกจากการคอมมิตล่าสุดในมาสเตอร์ รูปภาพนี้อาจใช้เวลาสองสามนาทีในการรีเฟรช
 
 ![A rendered view of the blocks](https://github.com/arplane-socity/code/raw/master/.github/makecode/blocks.png)
